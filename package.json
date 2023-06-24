@@ -1,5 +1,5 @@
 {
-  "name": "ahj-homework-2.3",
+  "name": "ahj-homework-2.3-1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "forever server.js",
     "watch": "forever -w server.js"
   },
-  "repository": "https://github.com/Cesaress/ahj-homework-2.3.git",
+  "repository": "https://github.com/Cesaress/ahj-homework-2.3-1.git",
   "author": "Cesaress",
   "license": "ISC",
   "dependencies": {
